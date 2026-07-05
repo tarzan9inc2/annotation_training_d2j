@@ -33,7 +33,7 @@
 
 #### 追加されたファイル
 
-| ファイル | 説明 |
+| ファイル | 説明 |git config user.name "Takashi Fukaya"
 |---------|------|
 | `install_pytorch_cu128.bat` | PyTorch Nightly (CUDA 12.8) インストールスクリプト |
 | `run_cpu_fallback.bat` | CPUフォールバックモード起動スクリプト |
